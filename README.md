@@ -73,9 +73,35 @@ Sobriété énergétique est un site web réalisé en groupe de 4 (cadre SCRUM) 
 - Miro
 
 ## La tour maléfique infernale
-La tour maléfique infernale est un jeu vidéo mené en groupe de 4. Ce jeu de type "RogueLike" propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final. Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour réaliser le jeu, un [cahier des charges](https://docs.google.com/document/d/1zSflqUJoOf7Ham5kGEMiK747c1gzN_cbQQUpa1HrMTg/edit?tab=t.0#heading=h.ifqz8q80v020) a été réalisé et plusieurs livrables ont été livré lors des différentes itérations.
+La tour maléfique infernale est un jeu vidéo mené en groupe de 4. Ce jeu de type "RogueLike" propose un style de jeu simple : Apparition simple, monstres, clés, étages et boss final. 
 
-![alt text](../.png)
+<p align="center"><em>Choix du personnage</em></p>
+<p align="center">
+  <img src="../inkytoon.github.io/chooseChar.png" alt="alt text" width="500">
+</p>
+
+<p align="center"><em>Combat de monstre</em></p>
+<p align="center">
+  <img src="../inkytoon.github.io/monster.png" alt="alt text" width="500">
+</p>
+
+<p align="center"><em>Coffre ouvert après avoir battu les monstres</em></p>
+<p align="center">
+  <img src="../inkytoon.github.io/chest.png" alt="alt text" width="500">
+</p>
+
+<p align="center"><em>Sortie du dongeon</em></p>
+<p align="center">
+  <img src="../inkytoon.github.io/exit.png" alt="alt text" width="500">
+</p>
+
+<p align="center"><em>Boss final</em></p>
+<p align="center">
+  <img src="../inkytoon.github.io/boss.png" alt="alt text" width="500">
+</p>
+
+
+Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour la conception du jeu, un [cahier des charges](https://docs.google.com/document/d/1zSflqUJoOf7Ham5kGEMiK747c1gzN_cbQQUpa1HrMTg/edit?tab=t.0#heading=h.ifqz8q80v020) a été élaboré et plusieurs livrables ont été livré lors des différentes itérations.
 
 **Langages et programmation :**
 - C++
