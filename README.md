@@ -77,27 +77,27 @@ La tour maléfique infernale est un jeu vidéo mené en groupe de 4. Ce jeu de t
 
 <p align="center"><em>Choix du personnage</em></p>
 <p align="center">
-  <img src="../inkytoon.github.io/chooseChar.png" alt="alt text" width="500">
+  <img src="./chooseChar.png" alt="alt text" width="500">
 </p>
 
 <p align="center"><em>Combat de monstre</em></p>
 <p align="center">
-  <img src="../inkytoon.github.io/monster.png" alt="alt text" width="500">
+  <img src="./monster.png" alt="alt text" width="500">
 </p>
 
 <p align="center"><em>Coffre ouvert après avoir battu les monstres</em></p>
 <p align="center">
-  <img src="../inkytoon.github.io/chest.png" alt="alt text" width="500">
+  <img src="./chest.png" alt="alt text" width="500">
 </p>
 
 <p align="center"><em>Sortie du dongeon</em></p>
 <p align="center">
-  <img src="../inkytoon.github.io/exit.png" alt="alt text" width="500">
+  <img src="./exit.png" alt="alt text" width="500">
 </p>
 
 <p align="center"><em>Boss final</em></p>
 <p align="center">
-  <img src="../inkytoon.github.io/boss.png" alt="alt text" width="500">
+  <img src="./boss.png" alt="alt text" width="500">
 </p>
 
 
