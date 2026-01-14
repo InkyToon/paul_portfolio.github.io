@@ -2,12 +2,14 @@
 
 ## PortailMSP
 
-Le PortailMSP est un outil interne dans l'entreprise ou j'ai fait mon stage de 2e année en BUT Informatique. Il permet la centralisation des informations liés aux licences vendues par les fournisseurs pour les clients de cette dernière. Ici, j'ai travaillé seul sur la refonte globale du site, pour avoir un code maintenable, de qualité et permettre l'ajout de nouveau fournisseur. J'ai mis en place plusieurs autres fonctionnalités : Données récupérables dans un excel, un système d'authentification avec l'active directory, gestion  (CRUD) d'affectation des responsables d'affaires aux clients. Vérification de la qualité de code via différents outils.
+Le PortailMSP est un outil interne dans l'entreprise ou j'ai fait mon stage de 2e année en BUT Informatique. Il permet la centralisation des informations liés aux licences vendues par les fournisseurs pour les clients de cette dernière.
+
+Ici, j'ai travaillé seul sur la refonte globale du site, pour avoir un code maintenable, de qualité et permettre l'ajout de nouveau fournisseur.
+
+J'ai mis en place plusieurs autres fonctionnalités : Données récupérables dans un excel, un système d'authentification avec l'active directory, gestion  (CRUD) d'affectation des responsables d'affaires aux clients. Vérification de la qualité de code via différents outils.
 
 Le chemin des données était le suivant :\
 -> API Fournisseur -> Backend -> Frontend
-
-Les données sont retransmises via un tableau pour les employés.
 
 Langages et programmation :
 - HTML/CSS
