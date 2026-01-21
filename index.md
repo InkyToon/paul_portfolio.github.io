@@ -7,7 +7,7 @@ Vous trouverez ici une sélection de projets réalisés au cours de mon cursus, 
 
 ## Projets principaux
 
-### 🎯 Projets académiques et professionnels
+### Projets académiques et professionnels
 - **[Portail MSP — Mission de stage](projects/PortailMsp.md)**  
   Développement d’un portail applicatif dans un contexte professionnel.
 
@@ -21,15 +21,13 @@ Vous trouverez ici une sélection de projets réalisés au cours de mon cursus, 
 
 ## Projets secondaires
 
-### 🛠️ Projets techniques et personnels
+### Projets techniques et évènements
 - **[Mise en place d’un environnement de développement](projects/EnvDev.md)**  
   Configuration complète d’un environnement de travail pour le développement.
 
-- **[Hnefatafl — Jeu de plateau en C++](projects/Hnefatafl.md)**  
+- **[Hnefatafl — Jeu de plateau en C++](projects/Hnefatafl.md)**
   Implémentation d’un jeu de stratégie nordique en C++.
 
-Développement d'un jeu vidéo type rétro (en C++) Coordination (Git), Répartition de travail (Miro), Communication (Teams). Gestion du projet informatique avec Méthode agile / Scrum.
-Mise en place de serveur web (Apache) sur un Raspberry Pi (UNIX/Linux).
-Création (Oracle) et l'exploitation (Python) d'une base de données.
-L'installation d'un poste pour le développement, Mise en place d’un OS et outils associés.
-Réalisation d’un site web avec Symfony en relation avec des capteurs via une API REST. Gestion du projet informatique avec Méthode agile / Scrum.
+- **[La Nuit De L'Info 2025 — Le Village Numérique Résistant](projects/NDLI.md)**  
+  Serious-game regroupant des milliers d’étudiants pour développer une application informatique en une nuit.
+

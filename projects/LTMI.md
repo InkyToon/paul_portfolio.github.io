@@ -4,7 +4,7 @@ La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé da
 
 <!-- Image 1 centrée -->
 <p align="center">
-  <img src="../images/chooseChar.png" alt="Choix du personnage" width="500"><br>
+  <img src="../images/LTMI/chooseChar.png" alt="Choix du personnage" width="500"><br>
   <em>Choix du personnage</em>
 </p>
 
@@ -12,21 +12,21 @@ La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé da
 <table align="center">
   <tr>
     <td align="center">
-      <img src="../images/monster.png" alt="Combat de monstre" width="300"><br>
+      <img src="../images/LTMI/monster.png" alt="Combat de monstre" width="300"><br>
       <em>Combat de monstre</em>
     </td>
     <td align="center">
-      <img src="../images/chest.png" alt="Coffre ouvert" width="300"><br>
+      <img src="../images/LTMI/chest.png" alt="Coffre ouvert" width="300"><br>
       <em>Coffre ouvert après avoir battu les monstres</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="../images/exit.png" alt="Sortie du dongeon" width="300"><br>
+      <img src="../images/LTMI/exit.png" alt="Sortie du dongeon" width="300"><br>
       <em>Sortie du dongeon</em>
     </td>
     <td align="center">
-      <img src="../images/boss.png" alt="Boss final" width="300"><br>
+      <img src="../images/LTMI/boss.png" alt="Boss final" width="300"><br>
       <em>Boss final</em>
     </td>
   </tr>
