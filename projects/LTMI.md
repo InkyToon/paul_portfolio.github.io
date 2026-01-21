@@ -9,28 +9,30 @@ La tour maléfique infernale est un jeu vidéo mené en groupe de 4 réalisé da
 </p>
 
 <!-- Images 2 à 5 : 2 par 2 -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="../images/LTMI/monster.png" alt="Combat de monstre" width="300"><br>
-      <em>Combat de monstre</em>
-    </td>
-    <td align="center">
-      <img src="../images/LTMI/chest.png" alt="Coffre ouvert" width="300"><br>
-      <em>Coffre ouvert après avoir battu les monstres</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="../images/LTMI/exit.png" alt="Sortie du dongeon" width="300"><br>
-      <em>Sortie du dongeon</em>
-    </td>
-    <td align="center">
-      <img src="../images/LTMI/boss.png" alt="Boss final" width="300"><br>
-      <em>Boss final</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="../images/LTMI/monster.png" alt="Combat de monstre" width="300"><br>
+        <em>Combat de monstre</em>
+      </td>
+      <td align="center">
+        <img src="../images/LTMI/chest.png" alt="Coffre ouvert" width="300"><br>
+        <em>Coffre ouvert après avoir battu les monstres</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="../images/LTMI/exit.png" alt="Sortie du dongeon" width="300"><br>
+        <em>Sortie du dongeon</em>
+      </td>
+      <td align="center">
+        <img src="../images/LTMI/boss.png" alt="Boss final" width="300"><br>
+        <em>Boss final</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -45,4 +47,4 @@ Ce travail a été réalisé avec la méthode agile (cadre SCRUM). Pour la conce
 - QTCreator
 - Teams + Miro
 
-**[Retour](../)**  
+**[Retour](../index.md)** 
