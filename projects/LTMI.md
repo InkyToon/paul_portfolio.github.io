@@ -9,7 +9,7 @@ Ce projet a été réalisé en BUT1 lors d'une SAE (Situation d'apprentissage é
 
 ### 1) Recherche
 
-Dans un premier temps, il fallu trouver un univers, un type de jeu et développer une narration et un gameplay. Ce qui a été le résultat d'une [première présentation](https://docs.google.com/presentation/d/1quiC0WuXoXVwYDQA5n-dLergxPfN4kf24JbCGkTFvRo/edit?usp=sharing).
+Dans un premier temps, il fallut trouver un univers, un type de jeu et développer une narration et un gameplay. Ce qui a été le résultat d'une [première présentation](https://docs.google.com/presentation/d/1quiC0WuXoXVwYDQA5n-dLergxPfN4kf24JbCGkTFvRo/edit?usp=sharing).
 
 ### 2) Realisation
 
